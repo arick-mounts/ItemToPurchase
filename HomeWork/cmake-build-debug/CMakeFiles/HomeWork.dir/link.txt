@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/HomeWork.dir/main.cpp.o CMakeFiles/HomeWork.dir/ItemToPurchase.cpp.o  -o HomeWork.exe -Wl,--out-implib,libHomeWork.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
